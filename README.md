@@ -31,7 +31,11 @@ Publico alvo: Turistas internos e externos
 # DORES DO PÚBLICO ALVO
 Desconhecimento do Destino Magé é pouco visível no mapa do ecoturismo. 
 Falta de Informação Prática	É difícil encontrar informações confiáveis sobre acesso, estado das trilhas, regras (autorização para vans/ônibus) e nível de dificuldade.
-# Prototipos
+
+# REQUISITOS
+[requeisitos.xlsx](https://github.com/user-attachments/files/23854982/requeisitos.xlsx)
+
+# PROTÓTIPOS 
 
 <img width="1918" height="1079" alt="Captura de tela 2025-11-28 172101" src="https://github.com/user-attachments/assets/b5d93e6c-285b-4edb-824c-f513e8ec07da" />
 <img width="1918" height="1011" alt="Captura de tela 2025-11-28 173313" src="https://github.com/user-attachments/assets/61d06954-243b-40bc-ac98-0ea1e27cb824" />
