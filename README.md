@@ -18,8 +18,17 @@ O Circuito Magé Verde visa promover ecoturismo conectando trilhas e cachoeiras 
 # INSTRUÇÕES PARA EXECUTAR O MVP
 
 # OBJETIVOS E BENEFÍCIOS DO PRODUTO
+Apresentamos o Magé Verde Online: um portal digital que será o guia definitivo para as maravilhas ecológicas de Magé.
+
+Experiência Visual Imersiva: Fotos e vídeos de altíssima qualidade que fazem o visitante sentir que já está lá.
+
+Conteúdo Detalhado: Trilhas, cachoeiras, fauna, flora e a relevância histórica dos locais
+
+Interatividade: Mapas, rotas de acesso e dicas para os visitantes.
 
 # PÚBLICO ALVO 
-
+Publico alvo: Turistas internos e externos
 # DORES DO PÚBLICO ALVO
-  
+Desconhecimento do Destino Magé é pouco visível no mapa do ecoturismo. 
+
+Falta de Informação Prática	É difícil encontrar informações confiáveis sobre acesso, estado das trilhas, regras (autorização para vans/ônibus) e nível de dificuldade.
