@@ -17,6 +17,8 @@ O Circuito Magé Verde visa promover ecoturismo conectando trilhas e cachoeiras 
 
 # INSTRUÇÕES PARA EXECUTAR O MVP
 
+
+
 # OBJETIVOS E BENEFÍCIOS DO PRODUTO
 Apresentamos o Magé Verde Online: um portal digital que será o guia definitivo para as maravilhas ecológicas de Magé.
 
