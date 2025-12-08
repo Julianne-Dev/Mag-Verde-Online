@@ -42,16 +42,16 @@ Desconhecimento do Destino Magé é pouco visível no mapa do ecoturismo.
 Falta de Informação Prática	É difícil encontrar informações confiáveis sobre acesso, estado das trilhas, regras (autorização para vans/ônibus) e nível de dificuldade.
 
 # REQUISITOS
-[requeisitos.xlsx](https://github.com/user-attachments/files/23854982/requeisitos.xlsx)
+[Conjunto de Requisitos_MVP_Basico_OTIMIZADO REV. FINAL.xlsx](https://github.com/user-attachments/files/24034914/Conjunto.de.Requisitos_MVP_Basico_OTIMIZADO.REV.FINAL.xlsx)
 
 # PROTÓTIPOS 
+<img width="1904" height="940" alt="Captura de tela 2025-11-28 173131" src="https://github.com/user-attachments/assets/f7e46830-55d6-43ca-8e5f-72e547f83f43" />
+<img width="1918" height="941" alt="Captura de tela 2025-11-28 172101" src="https://github.com/user-attachments/assets/00107ccb-13e2-4c59-8f03-e622feb9b529" />
+<img width="1919" height="942" alt="Captura de tela 2025-11-28 173058" src="https://github.com/user-attachments/assets/5c5183fc-c478-47b8-8817-36651f0e99aa" />
+<img width="1914" height="944" alt="Captura de tela 2025-11-28 172504" src="https://github.com/user-attachments/assets/c79eaf31-a076-4ae4-848b-ee8669d49652" />
+<img width="1915" height="949" alt="Captura de tela 2025-11-28 172413" src="https://github.com/user-attachments/assets/1e3811f0-6faa-4bef-a46a-9094488dd019" />
+<img width="1918" height="952" alt="Captura de tela 2025-11-28 173313" src="https://github.com/user-attachments/assets/8ee1ea3d-999a-4a90-b43c-84ea76463d4c" />
 
-<img width="1918" height="1079" alt="Captura de tela 2025-11-28 172101" src="https://github.com/user-attachments/assets/b5d93e6c-285b-4edb-824c-f513e8ec07da" />
-<img width="1918" height="1011" alt="Captura de tela 2025-11-28 173313" src="https://github.com/user-attachments/assets/61d06954-243b-40bc-ac98-0ea1e27cb824" />
-<img width="1915" height="1030" alt="Captura de tela 2025-11-28 172413" src="https://github.com/user-attachments/assets/d8031709-52a0-4480-997a-b37b5e716e4c" />
-<img width="1914" height="1000" alt="Captura de tela 2025-11-28 172504" src="https://github.com/user-attachments/assets/9016b771-45d3-45ed-81a9-e50c76f49d62" />
-<img width="1904" height="940" alt="Captura de tela 2025-11-28 173131" src="https://github.com/user-attachments/assets/61cb0724-53e9-4eef-8098-5ffb0a3a9e1f" />
-<img width="1919" height="988" alt="Captura de tela 2025-11-28 173058" src="https://github.com/user-attachments/assets/3f926d70-a215-4172-8878-9a9dc773f81c" />
 
 
 
