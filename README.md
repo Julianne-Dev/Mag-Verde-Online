@@ -53,6 +53,8 @@ Falta de Informação Prática	É difícil encontrar informações confiáveis s
 <img width="1904" height="940" alt="Captura de tela 2025-11-28 173131" src="https://github.com/user-attachments/assets/61cb0724-53e9-4eef-8098-5ffb0a3a9e1f" />
 <img width="1919" height="988" alt="Captura de tela 2025-11-28 173058" src="https://github.com/user-attachments/assets/3f926d70-a215-4172-8878-9a9dc773f81c" />
 
+# APRESENTAÇÃO
+[Magé Verde Online.pptx](https://github.com/user-attachments/files/24038435/Mage.Verde.Online.pptx)
 
 
 
